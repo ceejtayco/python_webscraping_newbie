@@ -1,4 +1,5 @@
-Brand, Product Name, Shipping,
+Base url:,https://www.newegg.com
+Brand, Product Name, Link, Price
 MSI,MSI Radeon RX 580 DirectX 12 RX 580 ARMOR 8G OC Video Card,https://www.newegg.com/msi-radeon-rx-580-rx-580-armor-8g-oc/p/N82E16814137118?Item=N82E16814137118,199.99
 GIGABYTE,GIGABYTE GeForce RTX 2070 Super GAMING OC 8G Graphics Card| GV-N207SGAMING OC-8GC,https://www.newegg.com/gigabyte-geforce-rtx-2070-super-gv-n207sgaming-oc-8gc/p/N82E16814932171?Item=N82E16814932171,549.99
 ASUS,ASUS ROG Strix GeForce RTX 2070 DirectX 12 ROG-STRIX-RTX2070-O8G-GAMING Video Card,https://www.newegg.com/asus-geforce-rtx-2070-rog-strix-rtx2070-o8g-gaming/p/N82E16814126266?Item=N82E16814126266,519.99
@@ -25,13 +26,16 @@ ASRock,ASRock Phantom Gaming X Radeon RX 590 DirectX 12 RX590 8G OC Video Card,h
 GIGABYTE,GIGABYTE GeForce GTX 1660 Ti WINDFORCE OC 6G Graphics Card| 2 x WINDFORCE Fans| 6GB 192-Bit GDDR6| GV-N166TWF2OC-6GD Video Card,https://www.newegg.com/gigabyte-geforce-gtx-1660-ti-gv-n166twf2oc-6gd/p/N82E16814932130?Item=N82E16814932130,279.99
 ASRock,ASRock Phantom Gaming X Radeon VII DirectX 12 Radeon VII 16G Video Card,https://www.newegg.com/asrock-radeon-vii-16g/p/N82E16814930012?Item=N82E16814930012,699.99
 GIGABYTE,GIGABYTE Geforce RTX 2060 OC GG Graphics Card| 2 x WINDFORCE Fans| 6GB 192-Bit GDDR6| GV-N2060OC-6GD  Video Card,https://www.newegg.com/gigabyte-geforce-rtx-2060-gv-n2060oc-6gd/p/N82E16814932115?Item=N82E16814932115,359.99
-XFX,XFX Radeon RX 5700 XT DirectX 12 RX-57XT8MFD6 Video Card,https://www.newegg.com/xfx-radeon-rx-5700-xt-rx-57xt8mfd6/p/N82E16814150821?Item=N82E16814150821,399.99
 XFX,XFX Radeon RX 5700 DirectX 12 RX-57XL8MFG6 Video Card,https://www.newegg.com/xfx-radeon-rx-5700-rx-57xl8mfg6/p/N82E16814150822?Item=N82E16814150822,349.99
 PowerColor,PowerColor AMD Radeon RX 5700 8GB GDDR6 AXRX 5700 8GBD6-M3DH,https://www.newegg.com/powercolor-radeon-rx-5700-axrx-5700-8gbd6-m3dh/p/N82E16814131749?Item=N82E16814131749,349.99
-GIGABYTE,GIGABYTE GeForce RTX 2070 DirectX 12 GV-N2070WF2-8GD Video Card,https://www.newegg.com/gigabyte-geforce-rtx-2070-gv-n2070wf2-8gd/p/N82E16814932160?Item=N82E16814932160,479.99
 Sapphire Tech,Sapphire Radeon PULSE RX 590 8GB GDDR5 PCI-E Dual HDMI / DVI-D / Dual DP w/ Backplate,https://www.newegg.com/sapphire-radeon-rx-590-100415p8gl/p/N82E16814202333?Item=N82E16814202333,194.99
-PowerColor,PowerColor RED DRAGON Radeon RX 580 DirectX 12 AXRX 580 8GBD5-3DHDV2/OC Video Card,https://www.newegg.com/powercolor-radeon-rx-580-axrx-580-8gbd5-3dhdv2-oc/p/N82E16814131720?Item=N82E16814131720,179.99
 ZOTAC,ZOTAC GAMING GeForce GTX 1660 Ti 6GB GDDR6 192-bit Gaming Graphics Card| Super Compact| ZT-T16610F-10L,https://www.newegg.com/zotac-geforce-gtx-1660-ti-zt-t16610f-10l/p/N82E16814500462?Item=N82E16814500462,279.99
 XFX,XFX Radeon RX 580 GTS Black Edition 1405 MHz OC+| 8GB 256-bit GDDR5| DX12 VR Ready| Double Dissipation| Dual BIOS| PCI-E AMD Graphics Card (RX-580P828D6),https://www.newegg.com/xfx-radeon-rx-580-rx-580p828d6/p/N82E16814150794?Item=N82E16814150794,209.99
+PowerColor,PowerColor RED DRAGON Radeon RX 580 DirectX 12 AXRX 580 8GBD5-3DHDV2/OC Video Card,https://www.newegg.com/powercolor-radeon-rx-580-axrx-580-8gbd5-3dhdv2-oc/p/N82E16814131720?Item=N82E16814131720,179.99
 GIGABYTE,GIGABYTE Radeon RX 570 DirectX 12 GV-RX570GAMING-4GD Video Card,https://www.newegg.com/gigabyte-radeon-rx-570-gv-rx570gaming-4gd/p/N82E16814125966?Item=N82E16814125966,149.99
 MSI,MSI GeForce RTX 2060 DirectX 12 RTX 2060 VENTUS XS 6G OC Video Card,https://www.newegg.com/msi-geforce-rtx-2060-rtx-2060-ventus-xs-6g-oc/p/N82E16814137396?Item=N82E16814137396,349.99
+Sapphire Tech,Sapphire Radeon RX 5700 8GB GDDR6 PCI-E HDMI / TRIPLE DP (UEFI),https://www.newegg.com/sapphire-radeon-rx-5700-100417l/p/N82E16814202342?Item=N82E16814202342,349.99
+GIGABYTE,GIGABYTE Radeon RX 590 Gaming 8G Graphics Card| 2 x WINDFORCE Fans| 8GB 256-Bit GDDR5| GV-RX590GAMING-8GD Video Card,https://www.newegg.com/gigabyte-radeon-rx-590-gv-rx590gaming-8gd/p/N82E16814932141?Item=N82E16814932141,199.99
+XFX,XFX Radeon RX 5700 XT DirectX 12 RX-57XT8MFD6 Video Card,https://www.newegg.com/xfx-radeon-rx-5700-xt-rx-57xt8mfd6/p/N82E16814150821?Item=N82E16814150821,399.99
+GIGABYTE,GIGABYTE GeForce RTX 2070 DirectX 12 GV-N2070WF2-8GD Video Card,https://www.newegg.com/gigabyte-geforce-rtx-2070-gv-n2070wf2-8gd/p/N82E16814932160?Item=N82E16814932160,479.99
+ASUS,ASUS ROG STRIX GeForce RTX 2060 SUPER ROG-STRIX-RTX2060S-O8G-GAMING Video Card,https://www.newegg.com/asus-geforce-rtx-2060-super-rog-strix-rtx2060s-o8g-gaming/p/N82E16814126331?Item=N82E16814126331,469.99
